@@ -31,4 +31,4 @@ jobs:
           add: "pictures/*"
 
         env:
-          GITHUB_TOKEN: ${{ secrets.LunarDan_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.LUNARDAN_TOKEN }}
